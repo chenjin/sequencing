@@ -1,0 +1,363 @@
+ID	Orientation	Length	Identities	e_value	big_insertion/deletion	no_aa_change	substitution_aa_change	num_of_substitution_aa_change	stop_codon_change	no_start_codon_change	normal_insertion	frame_shift_insertion	normal_deletion	frame_shift_deletion
+AT1G01990_F	R	566	566/566	0	NO			0						
+AT1G01990_R	F	506	505/506	0	NO		[R 466, gac -> cac, Asp => His] 	1						
+AT1G02300_F	R	642	641/642	0	NO		[R 391, tct -> cct, Ser => Pro] 	1						
+AT1G02300_R	F	528	404/406	0	YES		[R 154, tca -> tta, Ser => Leu] 	1	[R 256, gag -> tag, Glu => stop] 					
+AT1G05360_F	R	662	660/662	0	NO	[R 199, ttt -> ttc] 	[R 322, ata -> gta, Ile => Val] 	1						
+AT1G05360_R	F	591	587/591	0	NO	[R 412, tcc -> tct] [R 571, tag -> taa] 	[R 559, tgg -> tgc, Trp => Cys] 	1				[I 37, 1] 		
+AT1G06080_F	R	594	592/594	0	NO		[R 466, tct -> cct, Ser => Pro] [R 571, ctg -> atg, Leu => start] 	2						
+AT1G06080_R	F	521	521/521	0	NO			0						
+AT1G11020_F	F	609	608/609	0	NO	[R 586, aaa -> aag] 		0						
+AT1G11020_R	R	551	550/551	0	NO		[R 442, ttt -> ctt, Phe => Leu] 	1						
+AT1G12450_F	R	651	649/651	0	NO		[R 79, act -> gct, Thr => Ala] 	1						
+AT1G12450_R	F	540	538/540	0	NO		[R 169, gcg -> gtg, Ala => Val] [R 529, cac -> cgc, His => Arg] 	2						
+AT1G12650_F	F	565	563/565	0	NO		[R 511, cag -> ccg, Gln => Pro] 	1						
+AT1G12650_R	R	519	514/519	0	NO	[R 130, ctt -> ctc] [R 232, ttt -> ttc] [R 511, acg -> aca] 	[R 109, cga -> caa, Arg => Gln] [R 406, gaa -> aaa, Glu => Lys] 	2						
+AT1G13970_F	R	601	600/601	0	NO		[R 109, ttg -> tcg, Leu => Ser] 	1						
+AT1G13970_R	F	582	582/582	0	NO			0						
+AT1G14300_F	R	604	601/604	0	NO	[R 286, act -> acc] 	[R 151, ttg -> tcg, Leu => Ser] [R 580, ctc -> cac, Leu => His] 	2						
+AT1G14300_R	F	527	526/527	0	NO		[R 514, gag -> gtg, Glu => Val] 	1						
+AT1G16900_F	R	619	619/619	0	NO			0						
+AT1G16900_R	F	567	566/567	0	NO	[R 508, ggg -> gga] 		0						
+AT1G17145_F	F	628	628/628	0	NO			0						
+AT1G17145_R	R	511	509/511	0	NO		[R 343, agg -> aag, Arg => Lys] [R 481, aga -> aaa, Arg => Lys] 	2						
+AT1G19525_F	R	662	662/662	0	NO			0						
+AT1G19525_R	F	587	584/587	0	NO		[R 538, gat -> aat, Asp => Asn] [R 541, aag -> aat, Lys => Asn] 	2	[R 274, gaa -> taa, Glu => stop] 					
+AT1G24440_F	R	616	616/616	0	NO			0						
+AT1G24440_R	F	430	430/430	0	NO			0						
+AT1G26100_F	F	506	499/506	0	NO	[R 310, aca -> acc] [R 451, aca -> act] [R 460, acg -> act] 	[R 97, gca -> aca, Ala => Thr] [R 358, cat -> cct, His => Pro] [R 433, aga -> aca, Arg => Thr] [R 475, cat -> caa, His => Gln] 	4						
+AT1G26100_R	R	473	469/473	0	NO	[R 409, cca -> cct] 	[R 37, aga -> ata, Arg => Ile] [R 43, caa -> cca, Gln => Pro] [R 52, agg -> acg, Arg => Thr] 	3						
+AT1G26440_F	F	613	291/291	0	YES			0						
+AT1G26440_R	R	591	589/591	0	NO		[R 178, agt -> ggt, Ser => Gly] [R 367, gaa -> gga, Glu => Gly] 	2						
+AT1G27700_F	R	596	596/596	0	NO			0						
+AT1G27700_R	F	559	556/559	0	NO	[R 541, gcg -> gcc] 	[R 526, agt -> aat, Ser => Asn] 	1	[R 106, gaa -> taa, Glu => stop] 					
+AT1G43620_F	F	576	576/576	0	NO			0						
+AT1G43620_R	R	541	539/541	0	NO		[R 400, agc -> aac, Ser => Asn] [R 508, agg -> aag, Arg => Lys] 	2						
+AT1G44960_F	F	599	599/599	0	NO			0						
+AT1G44960_R	R	553	552/553	0	NO		[R 199, tgg -> ttg, Trp => Leu] 	1						
+AT1G48240_F	R	617	617/617	0	NO			0						
+AT1G48240_R	F	533	532/533	0	NO		[R 433, atg -> gtg, start => Val] 	1						
+AT1G49710_F	F	571	30/30	8e-013	YES			0						
+AT1G49710_R	R	505	37/37	5e-017	YES			0						
+AT1G49740_F	F	637	637/637	0	NO			0						
+AT1G49740_R	R	569	567/571	0	YES		[R 440, tag -> tat, stop => Tyr] [R 500, ggg -> tgg, Gly => Trp] 	2						[D 37, 1] [D 43, 1] 
+AT1G54150_F	R	574	573/574	0	NO		[R 265, ttc -> ctc, Phe => Leu] 	1						
+AT1G54150_R	F	590	587/590	0	NO	[R 496, aca -> acg] 	[R 550, gca -> aca, Ala => Thr] 	1				[I 37, 1] 		
+AT1G59640_F	R	517	482/517	0	NO	[R 67, gtg -> gta] [R 226, taa -> taa] [R 232, ctc -> ctc] [R 412, tcg -> tcc] 	[R 31, aga -> ata, Arg => Ile] [R 40, ttc -> ttg, Phe => Leu] [R 43, gaa -> gat, Glu => Asp] [R 46, acc -> ccc, Thr => Pro] [R 52, tga -> gga, stop => Gly] [R 70, caa -> cga, Gln => Arg] [R 88, tcc -> tac, Ser => Tyr] [R 91, tct -> att, Ser => Ile] [R 106, cgt -> ctg, Arg => Leu] [R 115, cga -> cta, Arg => Leu] [R 130, ctc -> cac, Leu => His] [R 133, cgg -> ccg, Arg => Pro] [R 157, aaa -> cca, Lys => Pro] [R 187, agg -> acg, Arg => Thr] [R 223, cga -> cca, Arg => Pro] [R 247, caa -> cga, Gln => Arg] [R 262, gtt -> ttt, Val => Phe] [R 277, tag -> tat, stop => Tyr] [R 373, agc -> aac, Ser => Asn] [R 379, act -> aat, Thr => Asn] [R 391, agt -> act, Ser => Thr] [R 394, agc -> aac, Ser => Asn] [R 427, atc -> ctc, Ile => Leu] [R 433, cgt -> ctt, Arg => Leu] [R 442, cat -> cag, His => Gln] 	25	[R 127, tat -> taa, Tyr => stop] 					
+AT1G59640_R	R	65	37/37	3e-018	YES			0						
+AT1G59650_F	F	45	30/30	5e-014	YES			0						
+AT1G59650_R	R	52	36/36	2e-017	YES			0						
+AT1G63260_F	F	567	567/567	0	NO			0						
+AT1G63260_R	R	509	504/509	0	NO		[R 28, gcc -> ccc, Ala => Pro] [R 247, cac -> tac, His => Tyr] [R 454, gac -> cac, Asp => His] [R 487, gtc -> ctc, Val => Leu] 	4				[I 37, 1] 		
+AT1G64710_F	F	628	628/628	0	NO			0						
+AT1G64710_R	NO_MATCH
+AT1G66250_F	R	597	597/597	0	NO			0						
+AT1G66250_R	F	605	602/605	0	NO	[R 280, act -> acc] 	[R 274, gca -> aca, Ala => Thr] [R 523, aaa -> aga, Lys => Arg] 	2						
+AT1G67880_F	R	644	644/644	0	NO			0						
+AT1G67880_R	F	582	580/582	0	NO	[R 385, tac -> tat] 		0	[R 355, tgg -> tag, Trp => stop] 					
+AT1G74370_F	F	596	594/596	0	NO		[R 136, aga -> gga, Arg => Gly] [R 577, ttc -> ctc, Phe => Leu] 	2						
+AT1G74370_R	R	558	555/558	0	NO	[R 523, agg -> cgg] 	[R 58, cca -> cga, Pro => Arg] [R 166, ata -> atg, Ile => start] 	2						
+AT1G75020_F	F	595	595/595	0	NO			0						
+AT1G75020_R	R	553	551/553	0	NO		[R 538, gtt -> att, Val => Ile] 	1	[R 292, cag -> tag, Gln => stop] 					
+AT1G78180_F	F	661	660/661	0	NO		[R 295, tct -> ttt, Ser => Phe] 	1						
+AT1G78180_R	R	579	578/579	0	NO		[R 532, caa -> cta, Gln => Leu] 	1						
+AT1G79520_F	F	394	49/49	2e-024	YES			0						
+AT1G79520_R	R	368	36/36	1e-016	YES			0						
+AT1G79650_F	F	607	30/30	6e-013	YES			0						
+AT1G79650_R	R	514	36/36	1e-016	YES			0						
+AT1G79730_F	R	603	602/603	0	NO		[R 133, cat -> tat, His => Tyr] 	1						
+AT1G79730_R	F	566	564/566	0	NO		[R 514, cag -> cgg, Gln => Arg] [R 550, aag -> aac, Lys => Asn] 	2						
+AT1G80910_F	R	596	595/596	0	NO		[R 49, gct -> act, Ala => Thr] 	1						
+AT1G80910_R	F	522	521/522	0	NO		[R 388, aag -> aac, Lys => Asn] 	1						
+AT2G01680_F	F	587	586/587	0	NO		[R 133, aat -> gat, Asn => Asp] 	1						
+AT2G01680_R	R	609	608/609	0	NO		[R 517, caa -> cga, Gln => Arg] 	1						
+AT2G01760_F	R	593	593/593	0	NO			0						
+AT2G01760_R	F	480	476/480	0	NO		[R 91, ctc -> ccc, Leu => Pro] [R 346, gtc -> gcc, Val => Ala] [R 454, aag -> aat, Lys => Asn] [R 457, aaa -> ata, Lys => Ile] 	4						
+AT2G17370_F	F	570	49/49	4e-024	YES			0						
+AT2G17370_R	R	559	36/36	2e-016	YES			0						
+AT2G17530_F	F	603	603/603	0	NO			0						
+AT2G17530_R	R	528	524/528	0	NO		[R 142, agt -> ggt, Ser => Gly] [R 157, agg -> aag, Arg => Lys] [R 325, aat -> cat, Asn => His] [R 511, agg -> acg, Arg => Thr] 	4						
+AT2G17640_F	R	430	51/51	1e-025	YES			0						
+AT2G17640_R	R	353	57/57	2e-029	YES			0						
+AT2G18030_F	F	544	544/544	0	NO			0						
+AT2G18030_R	R	557	552/557	0	NO		[R 439, aaa -> aga, Lys => Arg] [R 451, gag -> cag, Glu => Gln] [R 496, gga -> cga, Gly => Arg] [R 517, gtt -> att, Val => Ile] 	4						
+AT2G18630_F	F	515	31/31	1e-013	YES			0						
+AT2G18630_R	R	468	36/36	1e-016	YES			0						
+AT2G20780_F	R	660	658/660	0	NO	[R 466, aaa -> aag] 	[R 538, ggt -> agt, Gly => Ser] 	1						
+AT2G20780_R	F	462	454/462	0	NO	[R 412, acc -> acg] 	[R 7, caa -> cta, Gln => Leu] [R 70, aat -> agt, Asn => Ser] [R 235, aac -> gac, Asn => Asp] [R 346, agc -> atc, Ser => Ile] [R 367, agc -> tgc, Ser => Cys] [R 397, atc -> ctc, Ile => Leu] 	6	[R 439, cag -> tag, Gln => stop] 					
+AT2G22475_F	F	351	337/351	0	NO	[R 187, acg -> act] [R 280, gga -> ggt] [R 334, ccg -> cct] 	[R 217, gct -> tct, Ala => Ser] [R 232, tcg -> ttg, Ser => Leu] [R 244, aag -> aat, Lys => Asn] [R 259, tgg -> tgt, Trp => Cys] [R 286, cag -> cac, Gln => His] [R 301, aaa -> acg, Lys => Thr] [R 307, gca -> gta, Ala => Val] [R 337, tat -> gat, Tyr => Asp] [R 346, cgt -> cct, Arg => Pro] 	9						
+AT2G22475_R	R	483	481/483	0	NO	[R 364, tag -> taa] 	[R 451, aat -> tat, Asn => Tyr] 	1						
+AT2G22570_F	F	570	567/570	0	NO		[R 496, aaa -> aga, Lys => Arg] [R 514, ggt -> cgt, Gly => Arg] 	2						
+AT2G22570_R	R	529	529/530	0	YES			0						[D 37, 1] 
+AT2G22690_F	F	611	611/611	0	NO			0						
+AT2G22690_R	R	550	548/550	0	NO		[R 493, gag -> cag, Glu => Gln] [R 523, gaa -> aaa, Glu => Lys] 	2						
+AT2G24170_F	F	30	30/30	4e-014	NO			0						
+AT2G24170_R	R	432	36/36	2e-016	YES			0						
+AT2G25180_F	F	610	607/610	0	NO	[R 421, cat -> cac] 	[R 490, ggt -> ngt, Gly => NO_MATCH] [R 517, ccg -> cag, Pro => Gln] 	2						
+AT2G25180_R	R	584	584/584	0	NO			0						
+AT2G26070_F	F	556	554/556	0	NO		[R 250, cat -> tat, His => Tyr] [R 478, agc -> acc, Ser => Thr] 	2						
+AT2G26070_R	R	526	522/526	0	NO	[R 52, aaa -> aag] 	[R 55, aca -> aga, Thr => Arg] [R 436, att -> atg, Ile => start] [R 493, aaa -> aga, Lys => Arg] 	3						
+AT2G26110_F	F	613	613/613	0	NO			0						
+AT2G26110_R	R	531	530/531	0	NO		[R 73, agt -> ggt, Ser => Gly] 	1						
+AT2G26170_F	R	645	644/645	0	NO		[R 178, ggc -> agc, Gly => Ser] 	1						
+AT2G26170_R	F	555	552/555	0	NO		[R 514, ctt -> cca, Leu => Pro] [R 532, agt -> aat, Ser => Asn] 	2						
+AT2G26350_F	R	524	429/438	0	YES	[R 79, tcg -> tcc] [R 370, ccg -> cct] 	[R 22, gcc -> ccc, Ala => Pro] [R 49, aca -> ata, Thr => Ile] [R 85, aag -> aat, Lys => Asn] [R 151, agg -> atg, Arg => start] [R 154, agt -> aat, Ser => Asn] [R 385, agc -> atc, Ser => Ile] 	6	[R 187, gag -> tag, Glu => stop] 					
+AT2G26350_R	F	399	380/399	0	NO	[R 52, ctt -> ctg] 	[R 28, gcc -> ccc, Ala => Pro] [R 37, aaa -> att, Lys => Ile] [R 40, gaa -> tat, Glu => Tyr] [R 76, cag -> cat, Gln => His] [R 127, tta -> ttc, Leu => Phe] [R 136, cag -> cat, Gln => His] [R 148, atg -> aag, start => Lys] [R 163, aaa -> aac, Lys => Asn] [R 184, ttc -> tgc, Phe => Cys] [R 277, atg -> gtg, start => Val] [R 307, ggg -> tgg, Gly => Trp] [R 346, cag -> cac, Gln => His] [R 355, ggg -> tgg, Gly => Trp] 	13		[R 46, atg -> ata, start => Ile] 				
+AT2G26450_F	F	512	473/512	0	NO	[R 82, gcc -> gcc] [R 256, caa -> cag] [R 307, cca -> cct] [R 367, cca -> cct] [R 469, gaa -> gag] 	[R 61, aag -> cac, Lys => His] [R 67, caa -> cga, Gln => Arg] [R 106, aag -> acg, Lys => Thr] [R 157, gtt -> gct, Val => Ala] [R 169, ttt -> ctt, Phe => Leu] [R 175, tat -> atc, Tyr => Ile] [R 184, tat -> gat, Tyr => Asp] [R 187, gag -> gac, Glu => Asp] [R 190, aaa -> aca, Lys => Thr] [R 196, aat -> gat, Asn => Asp] [R 202, caa -> gca, Gln => Ala] [R 205, caa -> ccg, Gln => Pro] [R 217, caa -> cca, Gln => Pro] [R 220, caa -> cga, Gln => Arg] [R 226, aag -> cag, Lys => Gln] [R 235, aac -> agc, Asn => Ser] [R 253, caa -> cta, Gln => Leu] [R 265, caa -> cta, Gln => Leu] [R 271, tag -> tgg, stop => Trp] [R 313, agc -> cgc, Ser => Arg] [R 337, agt -> act, Ser => Thr] [R 355, tga -> aga, stop => Arg] [R 382, ttc -> ttg, Phe => Leu] [R 391, tta -> gta, Leu => Val] [R 424, cag -> cat, Gln => His] [R 430, aga -> aca, Arg => Thr] [R 490, caa -> cac, Gln => His] 	27				[I 244, 1] 		
+AT2G26450_R	R	246	229/251	2e-092	YES	[R 34, ggg -> gga] [R 143, tcc -> tca] 	[R 46, aag -> gaa, Lys => Glu] [R 55, ctt -> att, Leu => Ile] [R 58, aac -> agc, Asn => Ser] [R 68, ggc -> cgc, Gly => Arg] [R 77, cca -> aca, Pro => Thr] [R 80, atc -> ctc, Ile => Leu] [R 95, ggg -> agg, Gly => Arg] [R 110, gtt -> ctt, Val => Leu] [R 131, tat -> aat, Tyr => Asn] [R 140, aaa -> aca, Lys => Thr] [R 155, aac -> aag, Asn => Lys] [R 215, gtc -> gac, Val => Asp] 	12	[R 92, gaa -> tag, Glu => stop] 				[D 37, 3] 	[D 40, 2] 
+AT2G26640_F	R	662	662/662	0	NO			0						
+AT2G26640_R	F	605	603/605	0	NO		[R 421, tct -> ttt, Ser => Phe] [R 595, gat -> gct, Asp => Ala] 	2						
+AT2G30160_F	F	602	602/602	0	NO			0						
+AT2G30160_R	R	587	587/587	0	NO			0						
+AT2G30740_F	R	666	666/666	0	NO			0						
+AT2G30740_R	F	628	626/628	0	NO	[R 232, gtg -> gta] 		0						
+AT2G33250_F	F	592	592/592	0	NO			0						
+AT2G33250_R	R	573	571/573	0	NO			0						
+AT2G33330_F	F	642	640/642	0	NO		[R 496, aac -> gac, Asn => Asp] 	1				[I 598, 1] 		
+AT2G33330_R	R	542	541/542	0	NO	[R 484, gtt -> gtc] 		0						
+AT2G35190_F	R	626	626/626	0	NO			0						
+AT2G35190_R	F	562	562/562	0	NO			0						
+AT2G35650_F	R	571	53/53	2e-026	YES			0						
+AT2G35650_R	R	552	37/37	6e-017	YES			0						
+AT2G36330_F	F	608	608/608	0	NO			0						
+AT2G36330_R	R	516	515/516	0	NO		[R 451, cac -> tac, His => Tyr] 	1						
+AT2G38050_F	F	624	623/624	0	NO		[R 607, ggc -> gac, Gly => Asp] 	1						
+AT2G38050_R	R	572	569/572	0	NO	[R 562, gag -> gaa] 	[R 250, gcc -> gtc, Ala => Val] [R 508, gga -> aga, Gly => Arg] 	2						
+AT2G39510_F	F	422	418/422	0	NO	[R 397, gag -> gaa] [R 400, aag -> aaa] 	[R 340, gca -> ggc, Ala => Gly] 	1						
+AT2G39510_R	R	558	556/558	0	NO		[R 97, tgc -> cgc, Cys => Arg] [R 451, att -> gtt, Ile => Val] 	2						
+AT2G40900_R	R	33	22/23	1e-007	YES		[R 10, gaa -> caa, Glu => Gln] 	1						
+AT2G43330_F	R	637	636/637	0	NO		[R 133, aac -> gac, Asn => Asp] 	1						
+AT2G43330_R	F	413	413/413	0	NO			0						
+AT2G45530_F	R	678	678/678	0	NO			0						
+AT2G45530_R	F	572	572/572	0	NO			0						
+AT2G45850_F	R	599	599/599	0	NO			0						
+AT2G45850_R	F	508	508/508	0	NO			0						
+AT2G47700_F	NO_MATCH
+AT2G47700_R	F	185	164/182	3e-061	NO	[R 100, ggt -> ggg] [R 133, gag -> gaa] [R 142, tcg -> tcc] [R 148, cct -> ccc] [R 166, tcg -> tcc] 	[R 28, gcc -> ccc, Ala => Pro] [R 40, gct -> ggt, Ala => Gly] [R 49, gat -> aat, Asp => Asn] [R 55, gcc -> ggc, Ala => Gly] [R 58, gga -> cga, Gly => Arg] [R 82, gat -> gaa, Asp => Glu] [R 136, gat -> gaa, Asp => Glu] [R 151, gtc -> ggc, Val => Gly] [R 154, gaa -> caa, Glu => Gln] [R 157, gtc -> atc, Val => Ile] [R 160, tcg -> ccg, Ser => Pro] [R 178, gaa -> caa, Glu => Gln] 	12						
+AT3G01650_F	F	298	30/30	4e-013	YES			0						
+AT3G01650_R	R	189	36/36	6e-017	YES			0						
+AT3G02340_F	F	632	631/632	0	NO	[R 460, ctt -> cta] 		0						
+AT3G02340_R	R	578	576/578	0	NO	[R 568, ttc -> ttt] 	[R 100, tct -> cct, Ser => Pro] 	1						
+AT3G03040_F	NO_MATCH
+AT3G03040_R	R	28	25/27	1e-007	NO		[R 19, gtc -> ttc, Val => Phe] 	1	[R 22, gaa -> taa, Glu => stop] 					
+AT3G03870_F	F	585	584/585	0	NO	[R 571, aag -> aaa] 		0						
+AT3G03870_R	R	516	514/516	0	NO		[R 442, cga -> cta, Arg => Leu] [R 493, agg -> atg, Arg => start] 	2						
+AT3G04010_F	R	615	615/615	0	NO			0						
+AT3G04010_R	F	543	543/543	0	NO			0						
+AT3G04080_F	R	567	567/567	0	NO			0						
+AT3G04080_R	F	522	520/522	0	NO		[R 457, ccc -> ctc, Pro => Leu] 	1						
+AT3G04710_F	F	592	591/592	0	NO		[R 31, ggc -> cgc, Gly => Arg] 	1						
+AT3G04710_R	R	570	567/570	0	NO	[R 301, tcg -> tct] 	[R 493, gtt -> gat, Val => Asp] 	1						
+AT3G05400_F	R	607	605/607	0	NO	[R 367, ccg -> cca] 		0				[I 31, 1] 		
+AT3G05400_R	F	530	528/530	0	NO		[R 445, gtg -> atg, Val => start] [R 466, gaa -> aaa, Glu => Lys] 	2						
+AT3G06470_F	F	618	618/618	0	NO			0						
+AT3G06470_R	R	489	489/489	0	NO			0						
+AT3G07870_F	F	615	615/616	0	YES			0						[D 28, 1] 
+AT3G07870_R	R	506	504/506	0	NO	[R 154, tgc -> tgt] [R 433, ccg -> cca] 		0						
+AT3G08630_F	F	564	563/564	0	NO		[R 538, gct -> act, Ala => Thr] 	1						
+AT3G08630_R	R	511	511/511	0	NO			0						
+AT3G09410_F	F	560	346/346	0	YES			0						
+AT3G09410_R	R	505	505/505	0	NO			0						
+AT3G09470_F	R	540	54/54	3e-027	YES			0						
+AT3G09470_R	R	512	36/36	2e-016	YES			0						
+AT3G09880_F	F	607	606/607	0	NO	[R 100, tat -> tac] 		0						
+AT3G09880_R	R	568	568/568	0	NO			0						
+AT3G10210_F	R	600	599/600	0	NO		[R 562, caa -> cca, Gln => Pro] 	1						
+AT3G10210_R	F	522	519/522	0	NO		[R 364, agc -> atc, Ser => Ile] [R 442, aaa -> aca, Lys => Thr] [R 469, atc -> ctc, Ile => Leu] 	3						
+AT3G11650_F	F	611	609/611	0	NO	[R 136, gga -> ggg] 	[R 274, ttc -> ctc, Phe => Leu] 	1						
+AT3G11650_R	R	540	536/540	0	NO		[R 448, aat -> aaa, Asn => Lys] [R 505, aga -> aca, Arg => Thr] [R 529, aga -> gga, Arg => Gly] 	3				[I 37, 1] 		
+AT3G12100_F	F	636	632/636	0	NO			0			[I 6073] 	[I 610, 1] 		
+AT3G12100_R	R	604	602/604	0	NO		[R 484, ggc -> cgc, Gly => Arg] [R 511, gaa -> gat, Glu => Asp] 	2						
+AT3G13050_F	F	660	659/660	0	NO	[R 637, gag -> gaa] 		0						
+AT3G13050_R	R	572	570/572	0	NO		[R 319, tgc -> cgc, Cys => Arg] [R 508, aac -> tac, Asn => Tyr] 	2						
+AT3G14860_F	R	594	591/594	0	NO	[R 574, cag -> caa] 	[R 112, cag -> cgg, Gln => Arg] 	1				[I 31, 1] 		
+AT3G14860_R	F	573	573/573	0	NO			0						
+AT3G15160_F	F	558	557/558	0	NO		[R 247, gag -> ggg, Glu => Gly] 	1						
+AT3G15160_R	R	540	539/540	0	NO			0				[I 37, 1] 		
+AT3G16720_F	R	624	622/624	0	NO		[R 454, gag -> aag, Glu => Lys] [R 604, atg -> acg, start => Thr] 	2						
+AT3G16720_R	F	548	545/548	0	NO	[R 535, ctc -> ctt] 	[R 385, cat -> cgt, His => Arg] [R 514, act -> cct, Thr => Pro] 	2						
+AT3G17430_F	F	577	574/577	0	NO	[R 487, ggg -> gga] 	[R 496, cat -> cct, His => Pro] [R 547, gca -> aca, Ala => Thr] 	2						
+AT3G17430_R	R	535	289/289	0	YES			0						
+AT3G17611_F	F	600	599/600	0	NO		[R 133, aaa -> caa, Lys => Gln] 	1						
+AT3G17611_R	R	611	610/611	0	NO		[R 463, aat -> gat, Asn => Asp] 	1						
+AT3G20015_F	F	610	610/613	0	YES			0						[D 82, 2] [D 85, 1] 
+AT3G20015_R	R	580	574/580	0	NO	[R 562, ttc -> ttt] 	[R 442, acc -> gcc, Thr => Ala] [R 499, gta -> ata, Val => Ile] [R 529, caa -> cca, Gln => Pro] [R 559, cgc -> tcc, Arg => Ser] 	4						
+AT3G20240_F	R	567	567/567	0	NO			0						
+AT3G20240_R	F	554	554/554	0	NO			0						
+AT3G20560_F	R	582	581/582	0	NO		[R 52, ctt -> cct, Leu => Pro] 	1						
+AT3G20560_R	F	515	515/515	0	NO			0						
+AT3G21650_F	R	567	567/567	0	NO			0						
+AT3G21650_R	F	520	519/520	0	NO		[R 445, aag -> aan, Lys => NO_MATCH] 	1						
+AT3G26020_F	F	625	625/625	0	NO			0						
+AT3G26020_R	R	568	567/568	0	NO	[R 142, ttc -> ttt] 		0						
+AT3G26280_F	R	533	533/533	0	NO			0						
+AT3G26280_R	F	463	462/463	0	NO		[R 421, aag -> atg, Lys => start] 	1						
+AT3G28080_F	F	523	32/32	3e-014	YES			0						
+AT3G28080_R	R	554	36/36	1e-016	YES			0						
+AT3G43960_F	F	609	607/609	0	NO		[R 457, tgt -> cgt, Cys => Arg] 	1				[I 31, 1] 		
+AT3G43960_R	R	583	583/583	0	NO			0						
+AT3G45060_F	R	592	49/49	4e-024	YES			0						
+AT3G45060_R	R	515	54/54	4e-027	YES			0						
+AT3G47560_F	R	587	587/587	0	NO			0						
+AT3G47560_R	F	510	508/510	0	NO	[R 124, ctt -> ctc] 	[R 436, aat -> gat, Asn => Asp] 	1						
+AT3G47670_F	F	602	601/602	0	NO		[R 466, atc -> ttc, Ile => Phe] 	1						
+AT3G47670_R	R	434	427/434	0	NO		[R 232, cgt -> cat, Arg => His] [R 283, cga -> cca, Arg => Pro] [R 310, ggt -> tgt, Gly => Cys] [R 400, agc -> atc, Ser => Ile] [R 403, agc -> atc, Ser => Ile] [R 427, gat -> gaa, Asp => Glu] 	6	[R 22, gaa -> taa, Glu => stop] 					
+AT3G47990_F	NO_MATCH
+AT3G47990_R	NO_MATCH
+AT3G51830_F	F	639	639/639	0	NO			0						
+AT3G51830_R	R	643	643/643	0	NO			0						
+AT3G53030_F	R	658	656/658	0	NO		[R 562, tgc -> tac, Cys => Tyr] 	1				[I 31, 1] 		
+AT3G53030_R	F	495	490/495	0	NO	[R 97, gag -> gaa] [R 184, cag -> caa] 	[R 40, gat -> tat, Asp => Tyr] [R 61, gag -> gat, Glu => Asp] [R 394, ggt -> agt, Gly => Ser] 	3						
+AT3G55530_F	F	630	54/54	2e-027	YES			0						
+AT3G55530_R	R	567	61/62	9e-030	YES		[R 58, atc -> gtc, Ile => Val] 	1						
+AT3G57040_F	F	581	581/581	0	NO			0						
+AT3G57040_R	R	541	540/541	0	NO		[R 58, gaa -> caa, Glu => Gln] 	1						
+AT3G57070_F	R	613	611/613	0	NO		[R 349, ttt -> ctt, Phe => Leu] [R 571, att -> gtt, Ile => Val] 	2						
+AT3G57070_R	F	542	541/542	0	NO		[R 466, aaa -> caa, Lys => Gln] 	1						
+AT3G58040_F	F	599	599/599	0	NO			0						
+AT3G58040_R	R	564	563/564	0	NO	[R 271, aag -> aaa] 		0						
+AT3G58970_F	R	614	612/614	0	NO		[R 544, gtc -> atc, Val => Ile] [R 547, agc -> aac, Ser => Asn] 	2						
+AT3G58970_R	F	541	537/541	0	NO		[R 88, cgt -> cat, Arg => His] [R 211, aag -> aac, Lys => Asn] [R 505, cag -> cac, Gln => His] [R 532, caa -> aaa, Gln => Lys] 	4						
+AT3G59110_F	R	624	622/624	0	NO		[R 547, gag -> aag, Glu => Lys] [R 589, atc -> ctc, Ile => Leu] 	2						
+AT3G59110_R	F	547	544/547	0	NO		[R 448, agt -> att, Ser => Ile] [R 523, aac -> acc, Asn => Thr] 	2				[I 508, 1] 		
+AT3G62590_F	R	588	587/588	0	NO			0				[I 469, 1] 		
+AT3G62590_R	F	481	475/481	0	NO	[R 61, tcg -> tct] [R 76, tct -> tca] 	[R 55, aaa -> gaa, Lys => Glu] [R 241, aga -> aca, Arg => Thr] 	2	[R 22, gaa -> taa, Glu => stop] 	[R 58, atg -> ctg, start => Leu] 				
+AT4G00110_F	F	562	561/562	0	NO		[R 514, aag -> aac, Lys => Asn] 	1						
+AT4G00110_R	R	569	563/569	0	NO		[R 64, gta -> cta, Val => Leu] [R 142, cgc -> cac, Arg => His] [R 145, aga -> aaa, Arg => Lys] [R 157, agc -> atc, Ser => Ile] [R 349, gtc -> gcc, Val => Ala] [R 514, ggt -> agt, Gly => Ser] 	6						
+AT4G01220_F	F	627	624/627	0	NO		[R 322, aac -> agc, Asn => Ser] [R 337, gta -> gca, Val => Ala] [R 463, gag -> gtg, Glu => Val] 	3						
+AT4G01220_R	R	616	611/616	0	NO	[R 136, gtt -> gtc] 	[R 526, caa -> cca, Gln => Pro] [R 571, ctc -> cct, Leu => Pro] [R 574, caa -> cca, Gln => Pro] 	3						
+AT4G01330_F	R	587	587/587	0	NO			0						
+AT4G01330_R	F	479	477/479	0	NO	[R 463, tcg -> tcc] 	[R 436, ggg -> agg, Gly => Arg] 	1						
+AT4G03450_F	F	713	30/30	1e-012	YES			0						
+AT4G03450_R	R	663	36/36	3e-016	YES			0						
+AT4G08290_F	R	591	591/591	0	NO			0						
+AT4G08290_R	F	511	510/511	0	NO		[R 358, gca -> tca, Ala => Ser] 	1						
+AT4G09580_F	R	676	676/676	0	NO			0						
+AT4G09580_R	F	584	583/584	0	NO	[R 544, tcg -> tca] 		0						
+AT4G10380_F	F	614	614/614	0	NO			0						
+AT4G10380_R	R	567	564/567	0	NO		[R 178, aac -> agc, Asn => Ser] [R 265, aac -> gac, Asn => Asp] [R 499, gaa -> aaa, Glu => Lys] 	3						
+AT4G14240_F	F	646	645/646	0	NO		[R 436, tac -> ttc, Tyr => Phe] 	1						
+AT4G14240_R	R	565	563/565	0	NO	[R 46, tcg -> tca] [R 490, ttc -> ttt] 		0						
+AT4G15415_F	F	656	655/656	0	NO		[R 379, aat -> agt, Asn => Ser] 	1						
+AT4G15415_R	R	622	620/622	0	NO	[R 295, ccc -> cct] 	[R 592, aag -> gag, Lys => Glu] 	1						
+AT4G17420_F	F	623	623/623	0	NO			0						
+AT4G17420_R	R	538	537/538	0	NO		[R 301, agt -> aat, Ser => Asn] 	1						
+AT4G18160_F	R	641	639/641	0	NO		[R 301, caa -> cga, Gln => Arg] [R 439, cca -> cta, Pro => Leu] 	2						
+AT4G18160_R	F	558	551/558	0	NO	[R 163, tcg -> tca] 	[R 238, atg -> acg, start => Thr] [R 331, cca -> aca, Pro => Thr] [R 340, gag -> cag, Glu => Gln] [R 382, cac -> ctc, His => Leu] [R 391, cac -> caa, His => Gln] [R 532, ctt -> cct, Leu => Pro] 	6						
+AT4G21350_F	F	460	30/30	5e-013	YES			0						
+AT4G21350_R	R	61	29/29	2e-013	YES			0						
+AT4G22340_F	R	613	611/613	0	NO		[R 154, aac -> agc, Asn => Ser] [R 472, ctc -> ttc, Leu => Phe] 	2						
+AT4G22340_R	F	537	535/537	0	NO		[R 55, aag -> aat, Lys => Asn] [R 424, agt -> act, Ser => Thr] 	2						
+AT4G24040_F	R	631	631/632	0	YES			0						[D 40, 1] 
+AT4G24040_R	F	572	569/572	0	NO	[R 115, tct -> tcc] 	[R 400, gaa -> aaa, Glu => Lys] [R 565, gag -> aag, Glu => Lys] 	2						
+AT4G25710_F	F	659	658/659	0	NO		[R 277, tgc -> cgc, Cys => Arg] 	1						
+AT4G25710_R	R	581	581/581	0	NO			0						
+AT4G26100_F	R	516	516/517	0	YES			0						[D 502, 1] 
+AT4G26100_R	F	410	409/410	0	NO			0						
+AT4G27940_F	R	526	511/526	0	NO		[R 31, tga -> aga, stop => Arg] [R 34, tga -> ggt, stop => Gly] [R 37, agc -> gac, Ser => Asp] [R 43, gcg -> gag, Ala => Glu] [R 49, cag -> tcg, Gln => Ser] [R 67, ttc -> gtc, Phe => Val] [R 70, gta -> gca, Val => Ala] [R 79, aac -> tac, Asn => Tyr] [R 100, tcc -> gcc, Ser => Ala] [R 172, tag -> tac, stop => Tyr] 	10		[R 40, atg -> gtg, start => Val] [R 46, atg -> atc, start => Ile] 				
+AT4G27940_R	NO_MATCH
+AT4G30610_F	R	627	627/627	0	NO			0						
+AT4G30610_R	F	607	607/607	0	NO			0						
+AT4G31750_F	F	633	633/633	0	NO			0						
+AT4G31750_R	R	550	549/550	0	NO		[R 265, gtc -> gcc, Val => Ala] 	1						
+AT4G36480_F	F	611	607/611	0	NO	[R 166, ggg -> gga] [R 577, ctt -> cta] 	[R 52, aat -> gat, Asn => Asp] [R 337, gct -> gtt, Ala => Val] 	2						
+AT4G36480_R	R	595	595/596	0	YES			0						[D 43, 1] 
+AT4G36550_F	NO_MATCH
+AT4G36550_R	R	533	532/533	0	NO		[R 157, agc -> aac, Ser => Asn] 	1						
+AT4G38690_F	R	80	63/67	2e-026	YES	[R 37, acc -> acg] [R 55, ggt -> ggc] 	[R 34, ctt -> cat, Leu => His] 	1						
+AT4G38690_R	F	143	139/143	2e-071	NO	[R 31, ggc -> gga] 	[R 4, gtc -> gac, Val => Asp] [R 13, gcc -> tcc, Ala => Ser] 	2	[R 133, tgt -> tga, Cys => stop] 					
+AT5G03910_F	F	27	20/21	2e-006	YES		[R 16, gaa -> caa, Glu => Gln] 	1						
+AT5G03910_R	NO_MATCH
+AT5G06750_F	R	655	655/655	0	NO			0						
+AT5G06750_R	F	506	501/506	0	NO		[R 163, tcc -> ccc, Ser => Pro] [R 469, ccg -> ctg, Pro => Leu] [R 481, gct -> tcc, Ala => Ser] 	3	[R 391, gag -> tag, Glu => stop] 					
+AT5G06780_F	F	639	639/639	0	NO			0						
+AT5G06780_R	R	559	559/559	0	NO			0						
+AT5G07270_F	R	630	629/630	0	NO		[R 520, aac -> gac, Asn => Asp] 	1						
+AT5G07270_R	F	519	519/519	0	NO			0						
+AT5G07320_F	F	599	599/599	0	NO			0						
+AT5G07320_R	R	573	572/573	0	NO		[R 406, acc -> gcc, Thr => Ala] 	1						
+AT5G08130_F	F	573	573/573	0	NO			0						
+AT5G08130_R	R	568	567/568	0	NO		[R 301, ttg -> tcg, Leu => Ser] 	1						
+AT5G10300_F	F	661	661/661	0	NO			0						
+AT5G10300_R	R	573	572/573	0	NO		[R 487, caa -> cat, Gln => His] 	1						
+AT5G11270_F	F	513	512/513	0	NO		[R 220, cgt -> tgt, Arg => Cys] 	1						
+AT5G11270_R	R	505	502/505	0	NO	[R 463, cag -> caa] 	[R 193, tct -> cct, Ser => Pro] 	1				[I 37, 1] 		
+AT5G11730_F	F	476	475/476	0	NO		[R 352, aga -> aaa, Arg => Lys] 	1						
+AT5G11730_R	R	530	528/530	0	NO	[R 373, ggt -> ggc] 	[R 442, agg -> aag, Arg => Lys] 	1						
+AT5G12050_F	F	555	555/555	0	NO			0						
+AT5G12050_R	R	544	540/544	0	NO		[R 451, cga -> caa, Arg => Gln] [R 463, aga -> ata, Arg => Ile] [R 469, agc -> cgc, Ser => Arg] [R 526, agc -> aac, Ser => Asn] 	4						
+AT5G13170_F	R	529	145/175	5e-028	YES	[R 10, ggc -> ggg] [R 34, ggt -> ggg] [R 40, agg -> cgg] [R 73, ttc -> ttc] [R 82, cgg -> cgg] [R 106, gga -> gga] [R 127, ggc -> ggg] [R 133, aga -> cga] [R 154, cgt -> cgg] 	[R 22, gcc -> ccc, Ala => Pro] [R 43, acg -> aag, Thr => Lys] [R 46, agt -> aat, Ser => Asn] [R 49, agc -> aac, Ser => Asn] [R 52, ctc -> ccc, Leu => Pro] [R 67, gcc -> ggc, Ala => Gly] [R 79, tga -> tgg, stop => Trp] [R 97, agt -> aat, Ser => Asn] [R 109, cag -> acg, Gln => Thr] [R 112, atc -> aac, Ile => Asn] [R 115, ctc -> ccc, Leu => Pro] [R 121, atg -> aag, start => Lys] [R 136, gag -> aaa, Glu => Lys] [R 142, gtc -> ggc, Val => Gly] [R 145, cac -> ccc, His => Pro] [R 157, cac -> ccc, His => Pro] [R 166, gtg -> ggg, Val => Gly] [R 169, cac -> gac, His => Asp] 	18						
+AT5G13170_R	NO_MATCH
+AT5G14420_F	R	602	594/602	0	NO	[R 268, acg -> acc] 	[R 166, ctg -> cag, Leu => Gln] [R 208, aga -> aca, Arg => Thr] [R 241, agg -> aag, Arg => Lys] [R 439, caa -> cca, Gln => Pro] [R 499, aaa -> aca, Lys => Thr] [R 532, cct -> tct, Pro => Ser] [R 583, agg -> aag, Arg => Lys] 	7						
+AT5G14420_R	F	587	576/587	0	NO	[R 160, cag -> caa] [R 475, tag -> taa] 	[R 79, aga -> aaa, Arg => Lys] [R 145, caa -> cat, Gln => His] [R 247, tag -> tat, stop => Tyr] [R 256, gcc -> gac, Ala => Asp] [R 283, acc -> tcc, Thr => Ser] [R 373, ggt -> tgt, Gly => Cys] [R 382, ggc -> tgc, Gly => Cys] 	7	[R 70, gaa -> taa, Glu => stop] 			[I 166, 1] 		
+AT5G15470_F	F	682	680/682	0	NO	[R 430, aaa -> aag] 	[R 646, aat -> tat, Asn => Tyr] 	1						
+AT5G15470_R	R	644	642/644	0	NO	[R 463, taa -> tag] [R 604, caa -> cag] 		0						
+AT5G15740_F	R	558	558/559	0	YES			0						[D 235, 1] 
+AT5G15740_R	F	472	465/472	0	NO		[R 67, agg -> acg, Arg => Thr] [R 70, aaa -> ata, Lys => Ile] [R 379, aat -> gat, Asn => Asp] [R 394, caa -> cga, Gln => Arg] [R 403, gca -> tca, Ala => Ser] [R 436, tac -> cac, Tyr => His] 	6						
+AT5G15880_F	F	584	580/584	0	NO	[R 292, ctt -> ctc] 	[R 244, gac -> ggc, Asp => Gly] [R 463, gaa -> gan, Glu => NO_MATCH] [R 550, gat -> ggt, Asp => Gly] 	3						
+AT5G15880_R	R	605	603/605	0	NO		[R 172, ttc -> ctc, Phe => Leu] [R 565, atc -> acc, Ile => Thr] 	2						
+AT5G17070_F	R	641	641/644	0	YES			0						[D 31, 1] [D 114, 2] 
+AT5G17070_R	F	568	567/568	0	NO	[R 475, atc -> ata] 		0						
+AT5G17700_F	F	596	594/596	0	NO		[R 229, att -> act, Ile => Thr] [R 577, caa -> cca, Gln => Pro] 	2						
+AT5G17700_R	R	582	581/582	0	NO		[R 562, cgc -> cac, Arg => His] 	1						
+AT5G18780_F	R	635	633/635	0	NO		[R 262, agt -> aat, Ser => Asn] [R 469, cct -> tct, Pro => Ser] 	2						
+AT5G18780_R	F	570	568/570	0	NO		[R 544, agt -> act, Ser => Thr] [R 556, gca -> aca, Ala => Thr] 	2						
+AT5G19930_F	R	600	599/600	0	NO	[R 184, act -> acc] 		0						
+AT5G19930_R	F	508	508/508	0	NO			0						
+AT5G20170_F	F	541	28/30	6e-008	YES		[R 16, gaa -> aaa, Glu => Lys] [R 25, ctt -> cct, Leu => Pro] 	2						
+AT5G20170_R	R	355	29/29	2e-012	YES			0						
+AT5G20910_F	F	585	585/585	0	NO			0						
+AT5G20910_R	R	586	585/586	0	NO		[R 502, aga -> agt, Arg => Ser] 	1						
+AT5G21060_F	F	642	634/642	0	NO	[R 112, tgc -> tgt] [R 115, cga -> aga] 		0			[I 2893] 	[I 286, 2] [I 292, 1] 		
+AT5G21060_R	R	573	572/573	0	NO		[R 565, tac -> tgc, Tyr => Cys] 	1						
+AT5G22290_F	F	568	567/568	0	NO		[R 232, tta -> tca, Leu => Ser] 	1						
+AT5G22290_R	R	557	554/557	0	NO		[R 160, ttt -> tct, Phe => Ser] [R 523, tgg -> cgg, Trp => Arg] 	2	[R 529, tgg -> tga, Trp => stop] 					
+AT5G23850_F	F	654	653/654	0	NO			0				[I 628, 1] 		
+AT5G23850_R	R	573	573/573	0	NO			0						
+AT5G24450_F	F	621	621/621	0	NO			0						
+AT5G24450_R	R	561	560/561	0	NO		[R 523, aga -> aaa, Arg => Lys] 	1						
+AT5G27490_F	F	623	620/623	0	NO		[R 304, tgc -> cgc, Cys => Arg] [R 550, agg -> ang, Arg => NO_MATCH] 	2				[I 31, 1] 		
+AT5G27490_R	R	549	546/549	0	NO		[R 172, agc -> aac, Ser => Asn] [R 406, gtt -> att, Val => Ile] [R 514, agg -> atg, Arg => start] 	3						
+AT5G36940_F	R	608	374/374	0	YES			0						
+AT5G36940_R	F	558	553/558	0	NO	[R 322, tct -> tcc] 	[R 475, gat -> ggt, Asp => Gly] [R 514, agg -> agc, Arg => Ser] [R 535, ccc -> acc, Pro => Thr] 	3				[I 511, 1] 		
+AT5G37890_F	F	672	672/672	0	NO			0						
+AT5G37890_R	R	627	624/627	0	NO		[R 253, gct -> act, Ala => Thr] [R 475, agg -> aag, Arg => Lys] [R 613, gcg -> acg, Ala => Thr] 	3						
+AT5G38380_F	F	29	21/21	5e-009	YES			0						
+AT5G39040_F	F	121	106/119	2e-035	NO	[R 37, aac -> aat] [R 79, agt -> agc] 	[R 43, aaa -> ata, Lys => Ile] [R 64, agc -> acc, Ser => Thr] [R 67, aaa -> ctc, Lys => Leu] [R 76, ggt -> gtt, Gly => Val] [R 82, ggt -> gct, Gly => Ala] [R 94, aga -> tca, Arg => Ser] [R 109, cag -> aat, Gln => Asn] 	7						
+AT5G39040_R	R	180	36/36	8e-017	YES			0						
+AT5G40250_F	F	583	30/30	6e-013	YES			0						
+AT5G40250_R	R	581	36/36	2e-016	YES			0						
+AT5G41460_F	F	289	263/289	0	NO	[R 183, cta -> cta] [R 195, tca -> tca] [R 264, tca -> tcg] [R 276, ttg -> ctg] 	[R 31, gtt -> gat, Val => Asp] [R 37, aag -> acg, Lys => Thr] [R 43, aag -> acg, Lys => Thr] [R 52, aac -> gac, Asn => Asp] [R 55, cag -> cct, Gln => Pro] [R 64, cca -> ctc, Pro => Leu] [R 73, aag -> aat, Lys => Asn] [R 85, gaa -> gat, Glu => Asp] [R 109, tca -> acg, Ser => Thr] [R 112, ccg -> acg, Pro => Thr] [R 130, aaa -> caa, Lys => Gln] [R 142, acg -> gcg, Thr => Ala] [R 186, aag -> tgg, Lys => Trp] [R 249, aac -> agc, Asn => Ser] [R 261, aac -> cac, Asn => His] [R 270, caa -> cac, Gln => His] 	16						[D 178, 1] 
+AT5G41460_R	R	457	440/449	0	YES	[R 37, cac -> cat] [R 280, tct -> tca] 	[R 40, gac -> tac, Asp => Tyr] [R 46, aac -> aaa, Asn => Lys] [R 148, atg -> atc, start => Ile] [R 199, agc -> acc, Ser => Thr] [R 220, ggg -> tgg, Gly => Trp] 	5	[R 298, gaa -> taa, Glu => stop] 					
+AT5G43140_F	F	624	624/624	0	NO			0						
+AT5G43140_R	R	518	516/518	0	NO		[R 433, caa -> cat, Gln => His] [R 496, gat -> aat, Asp => Asn] 	2						
+AT5G46050_F	F	625	625/625	0	NO			0						
+AT5G46050_R	R	584	581/584	0	NO	[R 403, aag -> aaa] [R 553, caa -> cag] 	[R 490, agt -> aat, Ser => Asn] 	1						
+AT5G49990_F	F	655	655/655	0	NO			0						
+AT5G49990_R	R	593	592/593	0	NO		[R 484, gaa -> caa, Glu => Gln] 	1						
+AT5G50800_F	F	620	620/620	0	NO			0						
+AT5G50800_R	R	545	545/546	0	YES			0						[D 49, 1] 
+AT5G53280_F	R	519	518/519	0	NO		[R 454, agc -> ggc, Ser => Gly] 	1						
+AT5G53280_R	F	492	489/492	0	NO	[R 214, aag -> aaa] 	[R 37, gaa -> caa, Glu => Gln] [R 109, agc -> atc, Ser => Ile] 	2						
+AT5G54840_F	F	554	553/554	0	NO	[R 490, att -> atc] 		0						
+AT5G54840_R	R	531	528/531	0	NO		[R 334, aag -> aat, Lys => Asn] [R 340, aga -> ata, Arg => Ile] [R 454, aat -> gat, Asn => Asp] 	3						
+AT5G58440_F	R	656	655/656	0	NO		[R 373, aag -> agg, Lys => Arg] 	1						
+AT5G58440_R	F	599	596/599	0	NO		[R 541, cag -> cat, Gln => His] [R 553, aat -> tat, Asn => Tyr] [R 571, aac -> gac, Asn => Asp] 	3						
+AT5G59000_F	F	564	563/564	0	NO	[R 556, gaa -> gag] 		0						
+AT5G59000_R	R	582	581/583	0	YES		[R 210, ttc -> ctc, Phe => Leu] 	1						[D 46, 1] 
+AT5G62960_F	R	612	611/612	0	NO	[R 568, tac -> tat] 		0						
+AT5G62960_R	F	499	497/499	0	NO		[R 211, ttc -> tcc, Phe => Ser] [R 415, cct -> tct, Pro => Ser] 	2						
+AT5G63490_F	R	508	489/499	0	YES	[R 472, tcc -> tct] 	[R 427, gtc -> gcc, Val => Ala] [R 433, aat -> att, Asn => Ile] [R 442, aga -> aaa, Arg => Lys] [R 448, tgt -> ggt, Cys => Gly] [R 466, aga -> gaa, Arg => Glu] [R 475, tgt -> ggt, Cys => Gly] [R 481, agc -> acc, Ser => Thr] [R 487, gga -> gaa, Gly => Glu] 	8						
+AT5G63490_R	F	588	586/588	0	NO		[R 514, gaa -> gat, Glu => Asp] [R 517, aat -> gat, Asn => Asp] 	2						
+AT5G63870_F	F	635	634/637	0	YES		[R 134, tgg -> agg, Trp => Arg] 	1						[D 28, 1] [D 31, 1] 
+AT5G63870_R	R	574	572/574	0	NO		[R 154, gaa -> aaa, Glu => Lys] [R 463, tga -> cga, stop => Arg] 	2						
+AT5G64560_F	F	590	590/593	0	YES			0					[D 100, 3] 	
+AT5G64560_R	R	557	556/557	0	NO		[R 349, cat -> cgt, His => Arg] 	1						
+AT5G66060_F	F	577	47/47	3e-023	YES			0						
+AT5G66060_R	R	513	36/36	1e-016	YES			0						
+AT5G66160_F	NO_MATCH
+AT5G66160_R	F	530	523/530	0	NO	[R 469, cgc -> cgg] 	[R 37, aaa -> ata, Lys => Ile] [R 55, ctc -> gtc, Leu => Val] [R 67, agc -> cgc, Ser => Arg] [R 520, cct -> tct, Pro => Ser] 	4	[R 172, aaa -> taa, Lys => stop] 			[I 361, 1] 		
+AT5G66440_F	F	593	593/593	0	NO			0						
+AT5G66440_R	R	503	502/503	0	NO		[R 484, gat -> tat, Asp => Tyr] 	1						
+AT5G67530_F	F	688	31/31	3e-013	YES			0						
+AT5G67530_R	R	592	37/37	6e-017	YES			0						
